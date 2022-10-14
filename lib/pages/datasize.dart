@@ -42,7 +42,6 @@ class _DataSizePageState extends State<DataSizePage> {
                       ],
                     ),
                   ),
-
                 ],
               )
             ],
